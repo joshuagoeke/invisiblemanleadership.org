@@ -31,7 +31,7 @@ fields:
     searchable: false
     settings:
       blockTypeFields: 0
-      changedFieldIndicator: 96669252
+      changedFieldIndicator: 2019020920
       columns:
         __assoc__:
           -
@@ -41,7 +41,7 @@ fields:
                 -
                   - width
                   - ''
-      contentTable: '{{%stc_5_photos}}'
+      contentTable: '{{%stc_12_photos}}'
       fieldLayout: table
       maxRows: null
       minRows: null

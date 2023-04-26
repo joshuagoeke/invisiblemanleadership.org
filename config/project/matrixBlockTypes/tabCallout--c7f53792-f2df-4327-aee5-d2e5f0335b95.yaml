@@ -31,8 +31,38 @@ fields:
     searchable: false
     settings:
       blockTypeFields: 0
-      changedFieldIndicator: 1317953001
-      contentTable: '{{%stc_tabs}}'
+      changedFieldIndicator: 784957713
+      columns:
+        __assoc__:
+          -
+            - 236f1e3d-b5b7-48b9-9407-f06fa45d0d13 # Tab Title
+            -
+              __assoc__:
+                -
+                  - width
+                  - ''
+          -
+            - 3807ab11-9fdf-49ac-9af0-9ca3e77892fd # Image
+            -
+              __assoc__:
+                -
+                  - width
+                  - ''
+          -
+            - 12ea636b-5a1f-4623-987d-16d5a681feb6 # Text
+            -
+              __assoc__:
+                -
+                  - width
+                  - ''
+          -
+            - d28b8567-1d40-4d40-8f1b-3208f4063d3b # Link
+            -
+              __assoc__:
+                -
+                  - width
+                  - ''
+      contentTable: '{{%stc_13_tabs}}'
       fieldLayout: row
       maxRows: 5
       minRows: null

@@ -1,4 +1,4 @@
-dateModified: 1682468887
+dateModified: 1682469728
 email:
   fromEmail: me@levizitting.com
   fromName: 'The Invisible Man Leadership Program'
@@ -29,6 +29,7 @@ meta:
     12ea636b-5a1f-4623-987d-16d5a681feb6: Text # Text
     16c32343-c234-4479-a53b-8de7cad7cf71: 'The Invisible Man Leadership Program' # The Invisible Man Leadership Program
     33b3fe32-761b-491c-bd8d-bbd1ee0e320a: Text # Text
+    48c48000-3a15-49ec-8366-e498cea8092e: 'Nav Link' # Nav Link
     55fa79ea-5553-42d9-8e46-93726cd9c7e3: Heading # Heading
     67ca25e8-eb03-43cd-9222-e8c0d90a1331: 'Public Schema' # Public Schema
     89c63208-2f9e-4fb3-9562-c5c4a709733f: Title # Title
@@ -46,12 +47,16 @@ meta:
     3807ab11-9fdf-49ac-9af0-9ca3e77892fd: Image # Image
     4117a0d7-1077-4b6b-aee2-49fe2f067165: photos # photos
     4315b9f4-bbde-4b68-8395-340ea7f8203d: Stats # Stats
+    4445ed54-8997-4edd-8a85-e976d09b78f7: 'Give Button' # Give Button
     5335c937-f52e-46bc-b450-ce1c783b5042: Title # Title
     7593fe81-7596-4faa-bef4-aac9d25d34e2: Hero # Hero
     59727c02-1fb5-44ba-97e1-7750af27abd4: 'Card Set' # Card Set
+    96969cd2-4e12-46ae-b8cc-d4ec0117699e: logo # logo
+    a44e9ce1-8b0a-4eec-b2a3-cfb469c68654: custom-links # custom-links
     a346e097-745f-4395-a326-411a4ff70c9d: 'Callout Link' # Callout Link
     b7cfb2f9-efc2-4e6f-b8a8-3d28d9d92e2f: Home # Home
     b54fd2e5-a591-4b7e-b183-a34f283cc000: Heading # Heading
+    b119d50f-a2f7-402f-a1e3-54e0e9d39930: 'Public Schema' # Public Schema
     c7f53792-f2df-4327-aee5-d2e5f0335b95: 'Tab Callout' # Tab Callout
     c9ad660a-b24e-4c3d-b87f-685185cc32f2: 'Background Image' # Background Image
     d4f26e3f-b377-4e05-b84c-dbf98e64f826: Link # Link
@@ -59,6 +64,7 @@ meta:
     d28b8567-1d40-4d40-8f1b-3208f4063d3b: Link # Link
     d3107f36-78e5-4715-b75f-8e03700aaf81: Logo # Logo
     d37368d9-ffab-4bba-a148-ff3504ab4b6f: 'Photo Gallery' # Photo Gallery
+    dbbb29de-0dd4-43af-85f4-c2ad52a0fa8d: Navbar # Navbar
     dbe1bd8a-c52b-418f-be3b-fe46ac093d9c: Tabs # Tabs
     e0a28370-0059-4791-9624-2383f68b6460: Heading # Heading
     e4c794ce-2250-48f7-86fe-cc451727b17f: 'Rich Text' # Rich Text

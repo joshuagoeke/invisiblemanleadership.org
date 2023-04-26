@@ -1,4 +1,4 @@
-changedFieldIndicator: 1864631495
+changedFieldIndicator: 166821740
 field: dbe1bd8a-c52b-418f-be3b-fe46ac093d9c # Tabs
 fieldLayouts:
   f3960fc8-3cf6-4ddc-907c-fb89dd8ee7ef:
@@ -79,6 +79,7 @@ fields:
       removeNbsp: false
       showUnpermittedFiles: false
       showUnpermittedVolumes: false
+      showWordCount: false
     translationKeyFormat: null
     translationMethod: none
     type: craft\ckeditor\Field
@@ -141,7 +142,7 @@ fields:
             - class
             - craft\elements\conditions\assets\AssetCondition
       selectionLabel: null
-      showSiteMenu: false
+      showSiteMenu: true
       showUnpermittedFiles: false
       showUnpermittedVolumes: false
       sources: '*'

@@ -1,0 +1,44 @@
+changedFieldIndicator: 299181086
+field: a44e9ce1-8b0a-4eec-b2a3-cfb469c68654 # custom-links
+fieldLayouts:
+  fb4324a0-0a7a-4f44-81e1-f3e15319a3bc:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            elementCondition: null
+            fieldUid: 48c48000-3a15-49ec-8366-e498cea8092e # Nav Link
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 25934723-01c1-49a6-8619-d77f93990f72
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: b3c28e7e-0111-4360-aa3a-cdf9b9a7b9b9
+        userCondition: null
+fields:
+  48c48000-3a15-49ec-8366-e498cea8092e: # Nav Link
+    columnSuffix: xonyosqr
+    contentColumnType: text
+    fieldGroup: null
+    handle: navLink
+    instructions: null
+    name: 'Nav Link'
+    searchable: false
+    settings:
+      byteLimit: null
+      charLimit: null
+      code: false
+      columnType: null
+      initialRows: 4
+      multiline: false
+      placeholder: null
+      uiMode: normal
+    translationKeyFormat: null
+    translationMethod: none
+    type: craft\fields\PlainText

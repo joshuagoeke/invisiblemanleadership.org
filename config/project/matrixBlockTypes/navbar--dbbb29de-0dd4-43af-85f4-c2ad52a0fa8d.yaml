@@ -1,0 +1,112 @@
+field: 8fea7832-8658-4760-82a2-fea191ae7ac0 # Blocks
+fieldLayouts:
+  b1e9c9d0-868a-46e9-a118-9640508dc8c9:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            elementCondition: null
+            fieldUid: 4445ed54-8997-4edd-8a85-e976d09b78f7 # Give Button
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: a4ab4d57-5a8f-41c8-87ff-ee598a29dd6b
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: 96969cd2-4e12-46ae-b8cc-d4ec0117699e # logo
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 5ec12863-4601-45af-bab1-18eb3762dcd3
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: a44e9ce1-8b0a-4eec-b2a3-cfb469c68654 # custom-links
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 7d7213f5-7517-45e1-9a86-2041fdb58ffc
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: 09e23f96-d7eb-4337-8ce5-a7be377c8085
+        userCondition: null
+fields:
+  4445ed54-8997-4edd-8a85-e976d09b78f7: # Give Button
+    columnSuffix: plaqguwc
+    contentColumnType: text
+    fieldGroup: null
+    handle: giveButton
+    instructions: null
+    name: 'Give Button'
+    searchable: false
+    settings:
+      byteLimit: null
+      charLimit: null
+      code: false
+      columnType: null
+      initialRows: 4
+      multiline: false
+      placeholder: null
+      uiMode: normal
+    translationKeyFormat: null
+    translationMethod: none
+    type: craft\fields\PlainText
+  96969cd2-4e12-46ae-b8cc-d4ec0117699e: # logo
+    columnSuffix: ruyahobd
+    contentColumnType: text
+    fieldGroup: null
+    handle: logo
+    instructions: null
+    name: logo
+    searchable: false
+    settings:
+      byteLimit: null
+      charLimit: null
+      code: false
+      columnType: null
+      initialRows: 4
+      multiline: false
+      placeholder: null
+      uiMode: normal
+    translationKeyFormat: null
+    translationMethod: none
+    type: craft\fields\PlainText
+  a44e9ce1-8b0a-4eec-b2a3-cfb469c68654: # custom-links
+    columnSuffix: null
+    contentColumnType: string
+    fieldGroup: null
+    handle: customLinks
+    instructions: null
+    name: custom-links
+    searchable: false
+    settings:
+      blockTypeFields: 0
+      changedFieldIndicator: 498067835
+      contentTable: '{{%stc_customlinks}}'
+      fieldLayout: table
+      maxRows: null
+      minRows: null
+      propagationKeyFormat: null
+      propagationMethod: all
+      selectionLabel: null
+      staticField: null
+    translationKeyFormat: null
+    translationMethod: none
+    type: verbb\supertable\fields\SuperTableField
+handle: navbar
+name: Navbar
+sortOrder: 8
