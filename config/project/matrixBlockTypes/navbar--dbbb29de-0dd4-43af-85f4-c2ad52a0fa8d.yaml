@@ -95,8 +95,17 @@ fields:
     searchable: false
     settings:
       blockTypeFields: 0
-      changedFieldIndicator: 498067835
-      contentTable: '{{%stc_customlinks}}'
+      changedFieldIndicator: 815273308
+      columns:
+        __assoc__:
+          -
+            - 48c48000-3a15-49ec-8366-e498cea8092e # Nav Links
+            -
+              __assoc__:
+                -
+                  - width
+                  - ''
+      contentTable: '{{%stc_14_customlinks}}'
       fieldLayout: table
       maxRows: null
       minRows: null

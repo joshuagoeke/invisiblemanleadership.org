@@ -1,4 +1,4 @@
-changedFieldIndicator: 299181086
+changedFieldIndicator: 896405558
 field: a44e9ce1-8b0a-4eec-b2a3-cfb469c68654 # custom-links
 fieldLayouts:
   fb4324a0-0a7a-4f44-81e1-f3e15319a3bc:
@@ -8,7 +8,7 @@ fieldLayouts:
         elements:
           -
             elementCondition: null
-            fieldUid: 48c48000-3a15-49ec-8366-e498cea8092e # Nav Link
+            fieldUid: 48c48000-3a15-49ec-8366-e498cea8092e # Nav Links
             instructions: null
             label: null
             required: false
@@ -22,13 +22,13 @@ fieldLayouts:
         uid: b3c28e7e-0111-4360-aa3a-cdf9b9a7b9b9
         userCondition: null
 fields:
-  48c48000-3a15-49ec-8366-e498cea8092e: # Nav Link
+  48c48000-3a15-49ec-8366-e498cea8092e: # Nav Links
     columnSuffix: xonyosqr
     contentColumnType: text
     fieldGroup: null
-    handle: navLink
+    handle: navLinks
     instructions: null
-    name: 'Nav Link'
+    name: 'Nav Links'
     searchable: false
     settings:
       byteLimit: null

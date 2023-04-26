@@ -1,0 +1,11 @@
+<div class="navbar">
+    <img class="logo" src={logo}><a href="/"></a></img>
+    <ul class="nav-links">
+        {% for customLinks in customLinks.all() %}
+        <li>
+            <a href={{ navlinks.link}}>{{ navlinks.name }}</a>
+        </li>
+        {% endfor %}
+    </ul>
+    <button class="give-button" href={buttomLink}>Give</button>
+</div>

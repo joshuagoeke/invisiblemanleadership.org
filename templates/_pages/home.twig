@@ -9,6 +9,12 @@
     {% if blocks|length %}
         {% for block in blocks %}
             {% switch block.type %}
+            {% case "navbar" %}
+                {% include '_modules/navbar.twig' with {
+                    logo: block.logo,
+                    customLinks: block.customLinks,
+                    giveButtom: block.giveButton,
+                } %}
             {% case "stats" %}
                 {% include '_modules/stats.twig' with {
                     title: block.statsTitle,
